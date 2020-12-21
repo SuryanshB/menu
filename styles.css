@@ -15,13 +15,11 @@ body{
     text-align: center;
     align-self: center;
     align-content: center; 
-    position: relative;
-    left: 300px;
 }
 
 .menu_btn{
     color: midnightblue;
-    width: 1000px;
+    width: 1160px;
     text-align: center;
     align-self: center;
     align-content: center;
