@@ -4,7 +4,7 @@ h1{
     align-self: center;
     align-content: center;
     font-family: sans-serif;
-    font-size: 130px;
+    font-size: 500px;
 }
 
 body{
@@ -19,13 +19,13 @@ body{
 
 .menu_btn{
     color: midnightblue;
-    width: 200px;
+    width: 1000px;
     text-align: center;
     align-self: center;
     align-content: center;
     border-color: darkslateblue;
-    height: 40px;
-    font-size: 20px;
+    height: 200px;
+    font-size: 100px;
     background-color: rgb(168, 205, 219);
 }
 
