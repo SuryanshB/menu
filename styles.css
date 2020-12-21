@@ -10,3 +10,22 @@ h1{
 body{
     background-color: aquamarine;
 }
+
+#menu_btn_group{
+    text-align: center;
+    align-self: center;
+    align-content: center; 
+}
+
+.menu_btn{
+    color: midnightblue;
+    width: 200px;
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    border-color: darkslateblue;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(168, 205, 219);
+}
+
